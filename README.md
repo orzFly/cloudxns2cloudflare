@@ -11,3 +11,5 @@ cloudxns2cloudflare
 1. `export CLOUDFLARE_EMAIL=example@example.com`
 1. `export CLOUDFLARE_KEY=MyGoalIsTheSeaOfStars`
 1. `node index.js <域名> <XML文件名>`，如 `node index.js orz.com xxx.xml`。
+
+可惜，当然不支持私货啦，比如 LINK, AX, CNAMEX, 301跳转, 302跳转, 隐式跳转。
