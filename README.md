@@ -14,6 +14,4 @@ cloudxns2cloudflare
 
 可惜，当然不支持私货啦，比如 LINK, AX, CNAMEX, 301跳转, 302跳转, 隐式跳转。
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/C3uaS5cM1DPVgDuEekjGueTv/orzFly/cloudxns2cloudflare'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/C3uaS5cM1DPVgDuEekjGueTv/orzFly/cloudxns2cloudflare.svg' />
-</a>
+
